@@ -1,7 +1,7 @@
 go-life
 =======
 
-A terminal screen Conway's Game of Life implementation that I made when I was learning Go. Critics and improviments are very welcome.
+A terminal screen Conway's Game of Life implementation that I made when I was learning Go.
 
 Critics and sugestions are welcome!
 
@@ -22,7 +22,7 @@ To build and run, clone this repository and navigate to go folder. Now run:
 
 To just run:
 
-    go run
+    go run *.go
 
 There are some optional arguments for go-life:
 
